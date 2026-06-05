@@ -1,9 +1,9 @@
-﻿# Kalkulator-w-Pythonie-Calculator-in-Python-
+# Programy-w-Pythonie-Programs-in-Python
 
 OPIS (PL)
 
-Prosty kalkulator wykonany w języku programowania Python, który posiada operatory dodawania, odejmowania, mnożenia, dzielenia oraz potęgowania.
+Programy tworzone w języku Python zawierające m.in. prosty kalkulator zawierający: dodawanie, odejmowanie, mnożenie, dzielenie oraz potęgowanie. Również zawiera program, który zawiera pętle while związaną z rejestrem do fikcyjnego Urzędu Cyfrowego.
 
 DESCRIPTION (EN)
 
-Simply calculator write in Python language, which has addition, substraction, multiplication, division and exponentiation operators. 
+Programs created in Python include a simple calculator that can add, subtract, multiply, divide, and raise to a power. It also includes a program with a while loop associated with the register for the fictional Digital Office.
